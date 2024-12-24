@@ -16,7 +16,7 @@ const About = () => {
           transition={{ duration: 0.5 }}
           className="w-full lg:w-1/2 lg:p-8"
         >
-          <div className="flex items-center justify-center">
+          <div className="flex items-center justify-center pb-4">
             <img className="rounded-2xl" src={aboutImg} alt="about" />
           </div>
         </motion.div>
@@ -24,7 +24,7 @@ const About = () => {
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: 100 }}
           transition={{ duration: 0.5 }}
-          className="w-full lg:w-1/2"
+          className="w-full lg:w-1/2 pt-6"
         >
           <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
             Skills and Expertise
