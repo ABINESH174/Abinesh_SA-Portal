@@ -2,8 +2,8 @@ import React from "react";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
 import { motion } from "framer-motion";
-import springBoot from "../assets/spring.512x512.png";
-import pythonLogo from "../assets/python.1024x1018.png"
+import springBoot from "../assets/spring.512x512.webp";
+import pythonLogo from "../assets/python.1024x1018.webp"
 import { DiMysql } from "react-icons/di";
 import { FaJava } from "react-icons/fa";
 

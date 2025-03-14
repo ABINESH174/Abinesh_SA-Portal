@@ -1,9 +1,9 @@
 
-import proj2 from "../assets/projects/CodeEditor.png";
-import proj1 from "../assets/projects/AccetConnect.jpg";
+import proj2 from "../assets/projects/CodeEditor.webp";
+import proj1 from "../assets/projects/AccetConnect.webp";
 import proj3 from "../assets/projects/employee-management-system-project.webp";
-import proj4 from "../assets/projects/BankingApp.png";
-import proj5 from "../assets/projects/assignment-screens.jpg";
+import proj4 from "../assets/projects/BankingApp.webp";
+import proj5 from "../assets/projects/assignment-screens.webp";
 
 
 
